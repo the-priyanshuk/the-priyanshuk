@@ -2,7 +2,7 @@
 <h1 align="center"> <h1 align="center">
   Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>, I'm Priyanshu
 </h1>
-, I'm Priyanshu</h1>
+  
 <h3 align="center">A passionate Java Developer from India!☕💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-priyanshuk&label=Profile%20views&color=0e75b6&style=flat" alt="the-priyanshuk" /> </p>
 
@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact: **I once debugged code so intensely that my Batcomputer needed a coffee break! ☕🦇**
 
-- <a href="https://www.github.com/singhalmradul" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/singhalmradul?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/_singhalmradul" target="_blank" rel="noreferrer"><img
+ <a href="https://github.com/the-priyanshuk" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/the-priyanshuk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://x.com/_Kartik_5k" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_singhalmradul?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -31,7 +31,7 @@ src="https://img.shields.io/twitter/follow/_singhalmradul?logo=twitter&style=for
 <a href="https://www.leetcode.com/thepriyanshu69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thepriyanshu69" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -112,8 +112,21 @@ src="https://img.shields.io/twitter/follow/_singhalmradul?logo=twitter&style=for
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-priyanshuk&show_icons=true&locale=en&layout=compact" alt="the-priyanshuk" /></p>
+### Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-priyanshuk&show_icons=true&locale=en" alt="the-priyanshuk" /></p>
+<b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-priyanshuk&" alt="the-priyanshuk" /></p>
+<a href="https://github.com/the-priyanshuk"><img src="https://github-readme-stats.vercel.app/api?username=the-priyanshuk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="singhalmradul's GitHub stats" /></a>
+
+<a href="https://github.com/the-priyanshuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=the-priyanshuk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/the-priyanshuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-priyanshuk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/singhalmradul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
