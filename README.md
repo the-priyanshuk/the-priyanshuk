@@ -19,7 +19,7 @@
 
  <a href="https://github.com/the-priyanshuk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/the-priyanshuk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://x.com/_Kartik_5k" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_singhalmradul?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/the-priyanshuk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 
